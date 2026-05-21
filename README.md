@@ -1,4 +1,4 @@
-# QQMonitor Backend
+# Monitor Backend (Old)
 
 Sistema de monitoramento e execução automatizada de regras SQL com notificações em tempo real.
 
